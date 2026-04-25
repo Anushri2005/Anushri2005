@@ -18,5 +18,5 @@ React  ·  Node.js  ·  HTML  ·  CSS  ·  JavaScript  ·  Git
 
 ## Connect
 LinkedIn: linkedin.com/in/anushrisreenivas
-Portfolio: anushriportfolio.vercel.app
+Portfolio: https://anushri-portfolio-opal.vercel.app/
 Email: anushrisreenivas@gmail.com
